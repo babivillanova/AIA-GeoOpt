@@ -11,4 +11,4 @@ line = rg.Line(grid[0],grid[18])
 
 b = line.Length
 
-C = line
+c = line
