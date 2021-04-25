@@ -1,5 +1,10 @@
 import Rhino.Geometry as rg
 
+"""
+    Inputs:
+
+"""
+
 grid = []
 for i in range(10):
     for j in range(10):
@@ -12,3 +17,4 @@ line = rg.Line(grid[0],grid[18])
 b = line.Length
 
 c = line
+
