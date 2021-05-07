@@ -1,9 +1,13 @@
-"""Provides a scripting component.
-    Inputs:
+#Provides a scripting component.
+   """ Inputs:
         x: The x script variable
         y: The y script variable
     Output:
-        a: The a output variable"""
+        a: The a output variable
+        b: The b output variable
+        c: The c output variable
+        d: The d output variable
+        """
         
 import Rhino.Geometry as rg
 
