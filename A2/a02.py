@@ -1,5 +1,5 @@
 #Provides a scripting component.
-   """ Inputs:
+""" Inputs:
         x: The x script variable
         y: The y script variable
     Output:
@@ -7,7 +7,7 @@
         b: The b output variable
         c: The c output variable
         d: The d output variable
-        """
+"""
         
 import Rhino.Geometry as rg
 
